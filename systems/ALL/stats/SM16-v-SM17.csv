@@ -1,0 +1,3 @@
+Date, Element No, Used interval, SM16 Interval (new), SM17 Interval (new), SM17/SM16 Interval ratio, R (SM16), R (SM17)(exp), R (SM17), Grade, Success, abs RM16, abs RM17 (expected), abs RM17 (predicted), abs R-Metric, sqr R-Metric, Title,
+Feb 14 2020 11:26:59,4,1,2,3,1.7,0.975,0.986,0.986,4,1,0.0246,0.0139,0.0139,0.0107,0.0004,(adj) regular
+2ÔÂ 14 2020 11:27:14,3,1,2,4,1.86,0.978,0.986,0.986,4,1,0.0218,0.0143,0.0143,0.0076,0.0003,(v) prevent
